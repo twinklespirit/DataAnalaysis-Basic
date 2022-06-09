@@ -9,11 +9,11 @@
 기간: 2022년 6월 9일 목요일 ~ 2022년 6월 18일 토요일
 
 ## 학습계획
-1. 개발환경 구축
- (1) 아나콘다 및 주피터 노트북 설치
-2. 데이터 분석 이해(예정)
- (1) 데이터 분석 과정
- (2) 데이터 분석기법 종류
+1. 개발환경 구축 <br>
+ (1) 아나콘다 및 주피터 노트북 설치 
+2. 데이터 분석 이해(예정) <br>
+ (1) 데이터 분석 과정 <br>
+ (2) 데이터 분석기법 종류 <br>
 3. 탐색적 데이터 분석
  - 멕시코풍 프랜차이즈 chipotle 주문 데이터
  - 국가별 음주 데이터
@@ -32,5 +32,5 @@
  - 구매 데이터
 
 ## 학습도구
-참조1: https://www.youtube.com/watch?v=K0YPltIT7jc&list=PLVsNizTWUw7FmLj3IMECoauQ_-DUbNF0M
+참조1: https://www.youtube.com/watch?v=K0YPltIT7jc&list=PLVsNizTWUw7FmLj3IMECoauQ_-DUbNF0M <br>
 참조2: 윤기태, "이것이데이터분석이다", 한빛미디어, 2020.
